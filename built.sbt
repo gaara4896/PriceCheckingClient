@@ -1,4 +1,4 @@
-name := "ShootingGame"
+name := "PriceCheckingClient"
 
 version := "1.0"
 
